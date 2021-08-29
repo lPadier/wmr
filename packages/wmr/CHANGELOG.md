@@ -1,5 +1,11 @@
 # wmr
 
+## 3.5.2
+
+### Patch Changes
+
+- [`4e37369`](https://github.com/preactjs/wmr/commit/4e37369544b639a45f64ad0c0713d68b1a0a3c55) [#802](https://github.com/preactjs/wmr/pull/802) Thanks [@rschristian](https://github.com/rschristian)! - If Preact-CLI's debug service worker is detected, WMR will unregister it to avoid repeated 404 errors.
+
 ## 3.5.1
 
 ### Patch Changes
